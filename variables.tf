@@ -1,4 +1,4 @@
 variable "organization_name" {
-  default = "<your-organization-name>"
+  default = "Onis_Personal"
   type    = string
 }

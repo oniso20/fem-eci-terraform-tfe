@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "<your-organization-name>"
+    organization = "Onis_Personal"
 
     workspaces {
       name = "fem-eci-workspace"
